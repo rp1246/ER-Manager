@@ -1,5 +1,5 @@
 /*
-Student Name: Raj Phuyal
+Name: Raj Phuyal
 Compiler Used: Visual Studio
 Program Description: In this project we develop an emergency room simulator by using heaps and priority queuing.
 */
